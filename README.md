@@ -10,11 +10,15 @@ To counter these threats, using GANs for both generating synthetic training data
 	Hard Disk   : 40 GB.
 	Ram	       : 512 Mb.
 #  Software Requirements
-Operating system : - Windows.
-Coding Language	:  python.
-Frame works       : TenserFlow,Keras
-GUI : Tkinter
-Dataset: Real+Morphed face images
+    Operating system : - Windows.
+
+    Coding Language	:  python.
+	
+    Frame works       : TenserFlow,Keras
+	
+    GUI : Tkinter
+	
+    Dataset: Real+Morphed face images
 
 
 
